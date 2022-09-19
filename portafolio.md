@@ -175,3 +175,28 @@ ninguna
 #### 18.2 dfd
 ![image](https://user-images.githubusercontent.com/113399679/190954906-e2d24a34-a726-45bc-b139-127be3bfe1ab.png)
 
+#### ejercicio 19
+#### 19.1 Análisis
+#### esta directamente relacionad con el ejercicio 18 pues es parte de ¿cuánto me falta para que llegue a 10?
+#### 19.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190959172-fc0c4f8c-c758-42d5-90e4-85e95c37648d.png)
+#### 19.3
+ |digite un numero|n>10|mayor a 10|menor a 10|salida|
+|----------------|----|----------|----------|------|
+|6               |    |          |6<10      |menor |
+#### Ejercico 20
+#### Análisis 20.1
+#### Capture n números, al final indique cuántos son positivos y cuántos negativos. Escriba 0 para terminar.
+#### 20.2 dfd
+ ![image](https://user-images.githubusercontent.com/113399679/190958455-fe1fca95-27da-4418-8c37-9541a0d32344.png)
+#### 20.3 prueba de escritorio
+|c|n|n==0|n>0|pos|neg|
+|-|-|----|---|---|---|
+|1|6| | 6>0| 1|
+|2|-4| |0>42| | 1| 
+|3|0|0|0| |1|1|
+#### Ejercicio 21
+#### 21.1 Análisis
+#### Capturar un número positivo o negativo, 0 para terminar. Si es negativo contar de 0 a ese número. Si es positivo contar de 0 a ese número.
+#### 21.2 dfd 
+![image](https://user-images.githubusercontent.com/113399679/190960696-a25eab2a-4395-4bca-bae2-1718a7209cac.png)
