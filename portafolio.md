@@ -9,6 +9,8 @@
 #### 1.3 prueba de escritorio
 #### 1.4 salida 
 #### "josé"
+#### 1.5 entreda 
+#### no tiene
 #### ejercicio 2 
 #### 2.1 Análisis
 #### estableces la variable nom como josé e imprimir "hola non"
