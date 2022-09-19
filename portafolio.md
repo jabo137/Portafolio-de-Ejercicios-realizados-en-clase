@@ -15,7 +15,7 @@
 #### 2.1 Análisis
 #### estableces la variable nom como josé e imprimir "hola non"
 #### 2.2 Diagrama de flujo
-
+![image](https://user-images.githubusercontent.com/113399679/190947294-54935e03-c363-4be0-bfb4-fc251bdf6b47.png)
 #### 2.3 prueba de escritorio 
 |msg       |salida    |
 |----------|----------|
@@ -38,7 +38,7 @@
 #### 4.1 Anális
 #### preguntar al usuario su nombre y desearle "buen día" <nombre>
 #### 4.2 diagrama de flujo
-![image](https://user-images.githubusercontent.com/113399679/190947294-54935e03-c363-4be0-bfb4-fc251bdf6b47.png)
+![image](https://user-images.githubusercontent.com/113399679/190956868-5b5fd550-c07f-46d7-86ae-e8bd8c81b349.png)
 #### 4.3 Prueba de escritorio
 |msg            |entrada |salida         |
 |---------------|--------|---------------|
