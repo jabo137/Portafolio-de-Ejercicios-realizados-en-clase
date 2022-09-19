@@ -1,7 +1,7 @@
 #  Presentación
-##  Problemmas resueltos en clase con diagramas de flujo de datos 
+##  Problemas resueltos en clase con diagramas de flujo de datos 
 ### Ejercicio 1. imprimir nombre 
-#### 1.1 Anális
+#### 1.1 Análisis
 #### imprimir mi nombre
 #### 1.2 Diagrama de flujo
 ![Captura de pantalla (45)](https://user-images.githubusercontent.com/113399679/190947133-43364043-025c-4c45-af38-412309654d0c.png)
@@ -10,7 +10,7 @@
 #### 1.4 salida 
 #### "josé"
 #### ejercicio 2 
-#### 2.1 Anális
+#### 2.1 Análisis
 #### estableces la variable nom como josé e imprimir "hola non"
 #### 2.2 Diagrama de flujo
 
