@@ -153,4 +153,23 @@ ninguna
 |6| |menor|
 |37|mayor| |
 |9| |menor|
+#### ejercicio 17
+####17.1 Análisis
+#### digite si un numero es par o impar
+#### 17.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190954277-11ed24de-a094-4397-a7c0-c17f72469b73.png)
+#### 17.3 prueba de escritorio
+#### 17.3 prueba de escitorio
+|numeros|faltan para 10|pasan de 10|
+|-----------|------------------|---------------|
+|5|7| |
+|28| |116|
+|-9|18| |
+### 17.4 entrada de datos
+5,28,-9
+#### ejercicio 18
+#### 18.1 Análisis
+#### escriba un dfd que indique si un número es  mayor a 10
+#### 18.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190954906-e2d24a34-a726-45bc-b139-127be3bfe1ab.png)
 
