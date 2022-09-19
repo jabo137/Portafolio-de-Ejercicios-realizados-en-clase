@@ -204,4 +204,5 @@ ninguna
 ![image](https://user-images.githubusercontent.com/113399679/190963000-74d63543-bef5-4b8e-a0a6-d6b0818903d8.png)
 c|n|n==0|n>0|cont ++|cont--|cont|cont==n|
 |-|-|----|---|-------|------|----|-------|
-1|3| |3>0|0+1| |1| |
+|1|3| |3>0|0+1| |1| |
+| | | |   |   | | |  |
