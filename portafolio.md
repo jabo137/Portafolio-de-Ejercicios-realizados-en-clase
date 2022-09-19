@@ -174,16 +174,18 @@ ninguna
 #### escriba un dfd que indique si un número es  mayor a 10
 #### 18.2 dfd
 ![image](https://user-images.githubusercontent.com/113399679/190954906-e2d24a34-a726-45bc-b139-127be3bfe1ab.png)
-
+ |digite un numero|n>10|mayor a 10|menor a 10|salida|
+|----------------|----|----------|----------|------|
+|6               |    |          |6<10      |menor |
 #### ejercicio 19
 #### 19.1 Análisis
 #### esta directamente relacionad con el ejercicio 18 pues es parte de ¿cuánto me falta para que llegue a 10?
 #### 19.2 dfd
 ![image](https://user-images.githubusercontent.com/113399679/190959172-fc0c4f8c-c758-42d5-90e4-85e95c37648d.png)
 #### 19.3
- |digite un numero|n>10|mayor a 10|menor a 10|salida|
-|----------------|----|----------|----------|------|
-|6               |    |          |6<10      |menor |
+|n|n>10|10-n|Te falta, n, para  10|n-10|Te pasaste por, n|Salida            |
+|-|----|----|---------------------|----|-----------------|------------------|
+|6|    |10-6|Te falta, 4, para 10 |    |                 |Te falta 4 para 10|
 #### Ejercico 20
 #### Análisis 20.1
 #### Capture n números, al final indique cuántos son positivos y cuántos negativos. Escriba 0 para terminar.
@@ -199,4 +201,4 @@ ninguna
 #### 21.1 Análisis
 #### Capturar un número positivo o negativo, 0 para terminar. Si es negativo contar de 0 a ese número. Si es positivo contar de 0 a ese número.
 #### 21.2 dfd 
-![image](https://user-images.githubusercontent.com/113399679/190960696-a25eab2a-4395-4bca-bae2-1718a7209cac.png)
+![image](https://user-images.githubusercontent.com/113399679/190963000-74d63543-bef5-4b8e-a0a6-d6b0818903d8.png)
