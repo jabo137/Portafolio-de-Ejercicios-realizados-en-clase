@@ -89,5 +89,68 @@
 |----------------------------------|-----------|----------|
 |"Digita tu año año de nacimiento" | a_nc      |2022-a_nc |
 #### Ejercicio 10
-#### Análisis 
-  
+#### 10.1 Análisis 
+#### pregunte el año de nacimiento de una persona y calcule su edad actual  
+#### 10.2 bdfd 
+![image](https://user-images.githubusercontent.com/113399679/190949777-524db667-2801-436b-8911-32641d169825.png)
+#### 10.3 prueba de escritorio 
+#### 10.4 msg
+#### "dame tu ac"
+#### 10,5 entrada
+#### an a, a ac
+#### 10.6 salida 
+#### a ac-an a
+#### Ejercicio 11
+#### 11.1 analisis
+#### calcular la edad actual de una persona 
+#### 11.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190950451-99de0a99-86f8-48e4-974d-d467a00d0185.png)
+#### Ejercicio 12
+#### 12.1 Análisis 
+#### conocer el edad de una persona en base a su año de nacimiento y el año actual
+![image](https://user-images.githubusercontent.com/113399679/190950697-68f96c4b-62fb-459c-bab9-1818823b98f6.png)
+#### Ejercicio 13
+#### 13.1 Análisis escribe un dfd que cuente del 1 al 10 y lo escriba
+#### 13.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190951198-7a2b5b45-3d3e-4687-8c8b-32817225a5a7.png)
+#### 13.3 prueba de escritorio
+|c|
+|-|
+|2|
+|4|
+|6|
+|8|
+|10|
+### 13.4 entrada de datos
+ninguna
+### 13.5 salida de datos
+2,4,6,8,10
+#### ejercicio 14
+#### 14.1 analisis el resultado de las suma de los numeros naturales el 1 al 10
+####![image](https://user-images.githubusercontent.com/113399679/190951884-26bfa87a-6daa-48eb-9d98-b7d2bb83b76a.png)
+#### ejercicio 15
+#### 15.1 analisis
+#### capture n números e imprima solo las suma de los pares
+#### 15.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190952071-e91e10e5-1909-4720-8100-4fcdd948aa4f.png)
+#### 15.3 prueba de escritorio
+|numero|par|impar|
+|---------|----|--------|
+|6|par| |
+|7| |impar|
+#### 15.4 entrada de datos
+0,6,7
+#### 15.5 salida de datos
+ es par, es impar
+#### ejercicio 16
+#### analsis 16.1
+#### capture números e imprima las suma de sus pares 
+#### 16.2 dfd
+![image](https://user-images.githubusercontent.com/113399679/190953380-56e2e5f3-11cb-4bdb-a2e1-7f7b51c052e5.png)
+#### 16.3 prueba de escitorio
+|numero|mayor|menor|
+|----------|--------|--------|
+|6| |menor|
+|37|mayor| |
+|9| |menor|
+
